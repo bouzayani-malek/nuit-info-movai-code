@@ -1,0 +1,21 @@
+.Image_smile{
+    margin-top: 0px;
+}
+.container{
+    height: 300px;
+    width: 300px;
+    background-color: grey;
+   }
+   .Image_smile1{
+         height: 400px;
+         width: 450px;
+        position: absolute;
+        z-index: 10;
+   }
+ .Image_smile2{
+    height: 250px;
+    width: 290px;
+    position: absolute;
+    z-index: 20;
+    margin-top: 200px;
+}

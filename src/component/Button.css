@@ -1,0 +1,20 @@
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    align-items: normal;
+    color: rgb(182, 91, 91);
+    text-align: center;
+    justify-content: flex-start flex-end center space-between space-around space-evenly initial inherit;
+
+
+
+  }
+  span + span {
+    margin-left: 35px;
+}
+.image-amazon{
+    height: 80px;
+    margin-left: 1000px;
+    background: none;
+}

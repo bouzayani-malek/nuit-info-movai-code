@@ -1,0 +1,11 @@
+.light {
+    background-color: white;
+    color: #fff;
+    }
+.dark {
+    background-color: rgb(17, 16, 16);
+    color: #333;
+    }
+.switch{
+    margin-left: 1200px;
+}
